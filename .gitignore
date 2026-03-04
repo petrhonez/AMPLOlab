@@ -9,6 +9,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Binários e dados locais
+*.exe
+config.json
+
 # Dados locais
 config.json
 *.log
